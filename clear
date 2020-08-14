@@ -1,0 +1,35 @@
+* [33mcommit d8a3463b906142f7ebdc3fafb560139266372d14[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Larissa Garcia <larissaggarcia@gmail.com>
+[31m|[m Date:   Thu Aug 13 21:33:23 2020 -0300
+[31m|[m 
+[31m|[m     modificado os arquivos a.txt b.txt e c.txt
+[31m|[m   
+[31m|[m * [33mcommit 6f20bcc169233538c0060912d85dde7c34954e8f[m[33m ([m[1;32mteste[m[33m)[m
+[31m|[m [32m|[m Author: Larissa Garcia <larissaggarcia@gmail.com>
+[31m|[m [32m|[m Date:   Wed Aug 12 23:00:03 2020 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     criado o arquivo d.txt
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 6b1f082ef5201735fdc6878a15b9098e0088a742[m
+[31m|[m[31m/[m  Author: Larissa Garcia <larissaggarcia@gmail.com>
+[31m|[m   Date:   Wed Aug 12 22:57:35 2020 -0300
+[31m|[m   
+[31m|[m       modificado os arquivos a.txt e b.txt
+[31m|[m 
+* [33mcommit e7f599ffd57619595b27d769c90df0a95ccc2aa9[m
+[32m|[m Author: Larissa Garcia <larissaggarcia@gmail.com>
+[32m|[m Date:   Wed Aug 12 22:38:15 2020 -0300
+[32m|[m 
+[32m|[m     a.txt adicionei a linha Entendendo o HEAD
+[32m|[m 
+* [33mcommit 003930000e9e09d003881ae2b63ea00882944c30[m
+[32m|[m Author: Larissa Garcia <larissaggarcia@gmail.com>
+[32m|[m Date:   Wed Aug 12 22:09:54 2020 -0300
+[32m|[m 
+[32m|[m     modificado o arquivo a.txt e criado o arquivo c.txt
+[32m|[m 
+* [33mcommit 0272eea3a089679a1c7b6453beb9d48a97486a11[m
+  Author: Larissa Garcia <larissaggarcia@gmail.com>
+  Date:   Wed Aug 12 21:40:27 2020 -0300
+  
+      criados os arquivos a.xt b.txt
