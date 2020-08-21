@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+float delta(float a, float b, float c){             
+	return b*b-4*a*c;
+}
+                                    
+int main()
+{
+	
+	float a, b, c, dlt, x1, x2, xv, yx;  
+	
+		printf("Insira o valor de A: ");  
+			scanf("%f", &a);
+		printf("Insira o valor de B: ");  
+			scanf("%f", &b);
+		printf("Insira o valor de C: "); 
+			scanf("%f", &c);
+	
+	    printf("\nValor de delta: ""%.f \n", delta(a,b,c)); 
+			dlt=delta(a,b,c);                              
+	
+	if (dlt<0)                                             
+	 	printf("\nNao existe raiz", &dlt);                 
+	
+			printf("\nValor de X1: ""%.2f",((- b + sqrt(dlt))/ (2*a))); 		
+				printf("\nValor de X2: ""%.2f \n",((- b - sqrt(dlt))/ (2*a)));  
+	
+	if(a>0)                                                                       
+	 printf("\nA concavidade da parabola e voltada para cima \n");               
+		else printf("\nA concavidade da parabola e voltada para baixo \n");     
+		
+			printf("\nValor de Xv: ""%.1f", (-b/2*a/100));
+				printf("\nValor de Yv: ""%.1f", (-dlt/4*a/100));
+	
+}
